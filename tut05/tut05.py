@@ -1,5 +1,4 @@
 import random
-poop = "fart"
 def loopy():
   while True:
     d = input("Do you want to continue? (Y/n)")
